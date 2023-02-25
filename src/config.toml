@@ -1,0 +1,8 @@
+[network]
+port = 50001
+
+[interface]
+theme = ""
+
+[database]
+uri = "./db,sqlite3"
